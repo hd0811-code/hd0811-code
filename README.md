@@ -45,7 +45,6 @@ My research interests lie in **LLM reasoning**, **multi-agent systems**, and
 ![Computational Linguistics](https://img.shields.io/badge/Computational_Linguistics-4E8098?style=flat-square)
 ![Behavioural Finance](https://img.shields.io/badge/Behavioural_Finance-8F6A4A?style=flat-square)
 ![Energy Economics](https://img.shields.io/badge/Energy_Economics-5A8F62?style=flat-square)
-![Quantitative Methods](https://img.shields.io/badge/Quantitative_Methods-495057?style=flat-square)
 
 </div>
 
@@ -54,13 +53,13 @@ My research interests lie in **LLM reasoning**, **multi-agent systems**, and
 ## Selected work
 
 - **[Dissertation — LLM × ESG × Investor Emotions](https://github.com/hd0811-code/Dissertation-LLM-ESG-Investor-Emotions)**  
-  A psychologically informed language-model study of investor emotions.
+  Psychologically informed LLM for understanding investor emotions —— An interdisciplinary study .
 
 - **[Quantitative Methods III](https://github.com/hd0811-code/Quantitative-Methods-3)**  
   Moderation analysis at the intersection of energy and education.
 
 - **[Quantitative Methods I](https://github.com/hd0811-code/Quantitative-Methods-1)**  
-  Estimating US recession risk with macroeconomic and microeconomic indicators.
+  Estimating US recession risk with macroeconomic and microeconomic indicators using logistic regression.
 
 <div align="center">
   <br>
