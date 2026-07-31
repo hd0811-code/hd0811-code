@@ -16,10 +16,6 @@ My research interests lie in **LLM reasoning**, **multi-agent systems**, and
 **retrieval-augmented language models**, with applications spanning
 **computational linguistics**, **behavioural finance**, and **energy economics**.
 
-I am particularly interested in how language models reason, collaborate, and
-retrieve evidence—and how these capabilities can be used to study complex
-human, financial, and socio-economic systems.
-
 <br>
 
 ## Toolkit
