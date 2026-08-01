@@ -38,9 +38,6 @@ My research interests lie in **LLM reasoning**, **multi-agent systems**, and
 - **[Quantitative Methods I](https://github.com/hd0811-code/Quantitative-Methods-1)**  
   Estimating US recession risk with macroeconomic and microeconomic indicators using logistic regression.
 
-More coming up......
+  More coming up......
 
-<div align="center">
-  <br>
-  <a href="https://github.com/hd0811-code?tab=repositories">Explore all repositories →</a>
-</div>
+
