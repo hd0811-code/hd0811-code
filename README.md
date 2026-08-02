@@ -2,7 +2,8 @@
 
 # Yunting D.
 
-### BASc Arts and Sciences Graduate @ UCL
+### BASc Arts and Sciences Graduate @ UCL,major in DSML
+
 
 `LLM Reasoning` · `Multi-Agent Systems` · `Retrieval-Augmented Language Models`
 
