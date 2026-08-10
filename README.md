@@ -5,7 +5,7 @@
 ### BASc Arts and Sciences Graduate @ UCL,major in DSML
 
 
-`LLM Reasoning` · `Multi-Agent Systems` · `multimodal LLMs`
+`LLM Reasoning` · `Multi-Agent Systems` · `Multimodal LLMs`
 
 </div>
 
