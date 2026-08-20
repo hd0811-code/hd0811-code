@@ -32,12 +32,14 @@ My research interests lie in **LLM reasoning**, **multi-agent systems**, and
 
 - **[Dissertation — LLM × ESG × Investor Emotions](https://github.com/hd0811-code/Dissertation-LLM-ESG-Investor-Emotions)**  
   Psychologically informed LLM for understanding investor emotions in relation with energy stocks — An interdisciplinary study.
-
+  
+- **[CNN-Emotion Recognition-Kaggle](https://github.com/hd0811-code/Facial-Emotion-Recognition-Kaggle-FER-2013)**  
+  Facial emotion classification from grayscale images using a custom CNN trained from scratch on the FER2013 dataset.
+  
 - **[Quantitative Methods III](https://github.com/hd0811-code/Quantitative-Methods-3)**  
   Moderation analysis at the intersection of energy and education.
 
-- **[Quantitative Methods I](https://github.com/hd0811-code/Quantitative-Methods-1)**  
-  Estimating US recession risk with macroeconomic and microeconomic indicators using logistic regression.
+
 
   More coming up......
 
