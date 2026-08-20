@@ -26,7 +26,6 @@ My research interests lie in **LLM reasoning**, **multi-agent systems**, and
 
 </div>
 
-<br>
 
 ## Selected work
 
