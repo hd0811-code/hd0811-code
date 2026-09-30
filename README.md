@@ -2,8 +2,8 @@
 
 # Yunting D.
 
-## MSc Artificial Intelligence @ Imperial
-## BASc Arts and Sciences Graduate @ UCL,major in Data Science & Machine Learning
+### MSc Artificial Intelligence @ Imperial
+### BASc Arts and Sciences Graduate @ UCL,major in Data Science & Machine Learning
 
 
 `LLM Reasoning` · `Multi-Agent Systems` · `Multimodal LLMs`
